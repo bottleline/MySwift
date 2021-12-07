@@ -1,7 +1,7 @@
 # 스위프트 캡처 방지
  
 SceneDelegate
-```
+``` swift
  func sceneWillEnterForeground(_ scene: UIScene) {
         // Called as the scene transitions from the background to the foreground.
         // Use this method to undo the changes made on entering the background.
